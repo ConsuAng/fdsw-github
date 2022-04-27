@@ -11,6 +11,13 @@ body {
   background-position: left;
 }
 
+/* Carousel */
+
+.carousel-item {
+  width: 50%;
+  margin: auto;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
